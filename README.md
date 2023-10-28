@@ -1,6 +1,6 @@
 # Super Store Sales Dashboard using Power BI
 
-### Software & Tools Requirements
+### Software & Tools Required
 1. [Power BI] (https://www.microsoft.com/en-us/download/details.aspx?id=58494)
  
 ### Objective:
